@@ -2,8 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Parallel_sum" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Primenumber_generator" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Primenumber_generator/golang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parallel_sum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/primenumber_generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/primenumber_generator/golang" vcs="Git" />
   </component>
 </project>
